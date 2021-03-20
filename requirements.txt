@@ -50,7 +50,6 @@ fsspec==0.7.4
 future==0.18.2
 gast==0.3.3
 glob2==0.7
-gmpy2==2.0.8
 google-auth==1.25.0
 google-auth-oauthlib==0.4.2
 google-pasta==0.2.0
