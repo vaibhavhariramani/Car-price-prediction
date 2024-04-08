@@ -1,10 +1,4 @@
 # Car-price-prediction
-# [Car-price-prediction-ML-Model-Flask-Deployment](https://car-price-predictor-using-ml.herokuapp.com/)
-## [Checkout Live Model Api at ](https://car-price-predictor-using-ml.herokuapp.com/):[https://car-price-predictor-using-ml.herokuapp.com/](https://car-price-predictor-using-ml.herokuapp.com/)
-```
-[https://sales-predictionapi.herokuapp.com/]
-```
-[![Deployed Model](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/continuous-delivery-default.png)](https://car-price-predictor-using-ml.herokuapp.com/)
 
 ## About Project
 project for predicting car prices based on the features like fuel type and transmission type. 
