@@ -4,7 +4,7 @@
 project for predicting car prices based on the features like fuel type and transmission type. 
 ## MEDIUM BLOG & COMPLETE SET OF INSTRUSTION COMING SOON
 
-=========================================================================================================================================================
+================================================================================
 # Resources 
 
 To learn more about these Resources you can Refer to some of these articles written by Me:-
